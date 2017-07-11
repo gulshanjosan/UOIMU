@@ -1,6 +1,4 @@
-# MetaWear Starter Project
-This is a universal (iOS/tvOS/macOS) App which serves as an initial starting point for building MetaWear applications.
+# UOIMU Project
+This is an UOIMU iOS app that uses Metawear body sensors to collect the data simultaneously.
 
-## ATTENTION!
-We use [CocoaPods](http://cocoapods.org) for dependency management, this means you need to open **StarterProject.xcworkspace** and not StarterProject.xcodeproj.
-
+Metawear smart sensors : https://mbientlab.com
